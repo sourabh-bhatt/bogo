@@ -76,3 +76,4 @@ This repository contains a **responsive pricing component** built entirely with 
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Deployed Link
+https://bogo-delta.vercel.app/
